@@ -1,1 +1,1 @@
-# neural-representations-cnn
+Developed and evaluated convolutional autoencoders for visualizing image embeddings in 2D space. Trained on selected CIFAR-10 and CIFAR-100 classes, the models learned compressed representations using both unsupervised and supervised approaches.
